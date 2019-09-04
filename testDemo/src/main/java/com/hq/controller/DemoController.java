@@ -12,7 +12,7 @@ public class DemoController {
 	}
 	
 	public void show_bai() {
-		System.out.println("这是l;,l',;,',l,','l玩意");
+		System.out.println("这是l;,l',;,'");
 	}
 	
 	
